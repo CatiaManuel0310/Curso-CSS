@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: blue;
+   margin: 5em;
+}
+
+h1{
+    color: white;
+    padding: 2em;
+   
+
+}
+
+h2{
+    color: rgb(236, 183, 183);
+    margin: 2em;
+    padding: 8em;
+   
+}
+h3{
+    color: rgb(117, 226, 83);
+    margin: 2em;
+    padding: 2em;
+    
+}

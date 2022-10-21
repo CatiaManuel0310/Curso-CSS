@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(110, 142, 201);
+}
+
+p{
+    color: aliceblue;
+    font-size: 2em;
+}
+
+.center{
+    text-align: center;
+}
+
+.vermelho{
+    font-size: 2rem;
+    text-align:justify;
+    color: red;
+
+}
+
+#teste{
+    color: blue;
+    background-color: yellow;
+    font-size: 2rem;
+}
