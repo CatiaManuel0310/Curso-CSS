@@ -1,0 +1,37 @@
+h1{
+text-align: center;
+background-color: green;
+}
+
+.container{
+    position: relative;
+    display: inline-block;
+    background-image: url('/pexels-sohail-nachiti-807598.jpg');
+    opacity: ;
+    width: 100%;
+    background-size:cover ;
+    height: 40rem;
+    border: 6px dashed rgb(74, 192, 74);
+}
+
+.centro{
+    position: absolute;
+    color: white;
+    top: 40%;
+    text-align: center;
+    width: 100%;
+    font-size: 3rem;
+}
+
+
+.whats{
+    background-color: green;
+    color: aliceblue;
+    width: 7rem;
+    height: 7rem;
+    position: fixed;
+    right: 2;
+    bottom: 0;
+    text-align: center;
+    
+}
