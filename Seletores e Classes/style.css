@@ -2,7 +2,7 @@ body{
     background-color: rgb(110, 142, 201);
 }
 
-p{
+p, a{
     color: aliceblue;
     font-size: 2em;
 }

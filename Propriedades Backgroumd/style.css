@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(159, 200, 206);
+
+}
+
+h1{
+text-align: center;
+font-size: 5rem;
+background-color: rgb(33, 156, 156);
+}
+
+.exemplo-bac{
+    background-image: url("/pexels-sohail-nachiti-807598.jpg");
+    height: 40rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center ;
+   
+
+}

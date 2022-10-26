@@ -1,0 +1,23 @@
+
+
+h1{
+    padding: 20rem;
+    width: 40rem;
+    margin: 1rem;
+    background-color: black;
+    color:aliceblue;
+}
+
+.botao{
+   padding: 2rem;
+   margin: 2rem;
+   border-radius: 4rem;
+   background-color: black;
+   color: aliceblue;
+   
+    
+}
+
+.botao:hover{
+    background-color: blue;
+}

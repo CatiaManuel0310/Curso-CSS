@@ -1,0 +1,33 @@
+h1{
+    background-color: black;
+    color: #f0f8ff;
+    text-align: center;
+    border-radius: 1rem;
+    text-indent: 2rem;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-size: 1.8rem ;
+}
+
+p{
+    margin: 1rem;
+    text-indent: 2rem;
+    text-align: justify;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-size: 1.8rem ;
+}
+
+a{
+    background-color: yellow;
+    text-align: center;
+    padding: 1rem;
+   text-decoration: none;
+    border-radius: 1rem;
+    margin: 1rem;
+    text-indent: 2rem;
+    text-align: justify;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-size: 1.8rem ;
+    
+
+
+}

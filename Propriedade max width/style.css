@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    background-color: blanchedalmond;
+    color: #000;
+}
+
+
+.ex1{
+border: 7px solid blue;
+max-width: 100rem;
+}
+
+.ex2{
+border: 7px solid blue;
+max-width: 100rem;
+}

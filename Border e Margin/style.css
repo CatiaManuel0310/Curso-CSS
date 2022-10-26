@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(143, 142, 142);
+    
+}
+
+h1{
+    border: 1px solid white;
+    border-radius: 1rem;
+    margin-top: 50px;
+    
+
+}
+
+h2{
+    border: 10px dotted white;
+    border-radius: 2rem;
+    margin-top: 20px;
+    margin-left: 5rem;
+}
+
+h3{
+    border: 7px double red;
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+}
+
+h4{
+    
+    border-top: 5px dashed white;
+    border-left: 5px dashed yellow ;
+    border-right: 5px dashed yellow ;
+    border-block-end: 5px dashed rgb(35, 7, 196) ;
+    margin-top: 2rem;
+    margin-right: 2rem;
+    
+
+}

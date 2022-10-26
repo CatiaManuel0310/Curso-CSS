@@ -1,0 +1,37 @@
+.titulo{
+text-align: center;
+background-color: red;
+}
+
+
+.border{
+    border: 3px solid red;
+    padding: 0.7rem;
+}
+
+#p1{
+    display: block;
+}
+
+#p1:hover{
+    display: none;
+}
+
+li{
+    display: inline-block;
+    width: 20rem;
+    height: 10rem;
+    text-align: center;
+}
+
+#verde{
+    background-color: rgb(72, 226, 72);
+}
+
+#amarelo{
+    background-color: yellow;
+}
+
+#roxo{
+    background-color: blueviolet;
+}

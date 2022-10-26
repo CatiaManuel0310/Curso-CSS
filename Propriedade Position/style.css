@@ -1,0 +1,79 @@
+h1{
+    text-align: center;
+    background-color: darksalmon;
+}
+
+
+.container{
+    background-color: rgb(46, 80, 12);
+    width: 65rem;
+    height: 35rem;
+    display: inline-block;
+    margin-left: 0rem;
+}
+
+.div1{
+    background-color: blue;
+    display: inline-block;
+    width: 10rem;
+    height: 10rem;
+    position: relative;
+    top: 1rem;
+    left: 1rem;
+
+}
+
+.div2{
+    background-color: rgb(255, 0, 0);
+    display: inline-block;
+    width: 10rem;
+    height: 10rem;
+    position: relative;
+    left: 2rem;
+    top: 5rem;
+    
+}
+
+.div3{
+    background-color: rgb(255, 238, 0);
+    display: inline-block;
+    width: 10rem;
+    height: 10rem;
+    position: relative;
+    left: 3rem;
+    top: 10rem;
+}
+
+
+.div4{
+    background-color: rgb(255, 0, 149);
+    display: inline-block;
+    width: 10rem;
+    height: 10rem;
+    position: relative;
+    left: 4rem;
+    top: 15rem;
+}
+
+
+.div5{
+    background-color: rgb(0, 255, 13);
+    display: inline-block;
+    width: 10rem;
+    height: 10rem;
+    position: relative;
+    left: 5rem;
+    top: 20rem;
+}
+
+.whats{
+background-color: rgb(139, 131, 22);
+color: black;
+width: 5rem;
+height: 5rem;
+position: fixed;
+bottom:-2;
+right: 2;
+margin-top: 1rem;
+border-radius: 0.5rem;
+}

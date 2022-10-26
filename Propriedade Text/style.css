@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 2rem;
+    letter-spacing: 4px;
+}
+
+p{
+    text-align: justify;
+    text-transform:capitalize;
+    text-indent: 2rem;
+    letter-spacing: 1px;
+    line-height: 4;
+    word-spacing: 4px;
+}
+
+a{
+    
+    text-align: center;
+    text-decoration: none;
+    background-color: blue;
+    color: aliceblue;
+    padding: 1rem;
+    margin: 3rem;
+    border-radius: 2rem;
+}
