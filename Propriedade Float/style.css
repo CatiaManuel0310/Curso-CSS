@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+    font-size: 5rem;
+}
+
+img{
+    width: 30rem;
+    height: 30rem;
+    
+    
+}
+
+.container {
+    border: 1px solid black;
+   overflow: auto;
+} 
+ .container img{
+    margin-right: 1rem;
+    float: left;
+    
+ }   
+
+ ul{
+    background-color: black;
+ }
+
+ li{
+    display: inline-block;
+
+ }
+ 
+ li a{
+    color: aliceblue;
+    text-decoration: none;
+    padding: 8rem;
+ }
+
+
+ li a:hover{
+    background-color:rgb(39, 221, 115) ;
+    padding: 1px;
+ }
+
+
+ .login{
+    float:right;
+    background-color: darkorange;
+    
+ }

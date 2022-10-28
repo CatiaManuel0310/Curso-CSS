@@ -1,0 +1,30 @@
+
+#titulo{
+    background-color: blueviolet;
+}
+
+.red{
+    background-color: red;
+}
+
+h1{
+    text-align: center;
+    font-size: 6rem;
+    text-decoration: underline;
+    background-color: yellow;
+}
+
+h2{
+    text-align: center;
+    font-size: 3rem;
+    text-decoration: underline;
+}
+
+p{
+    font-size: 3rem;
+}
+
+.ordem{
+    background-color: aqua;
+    
+}

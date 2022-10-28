@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+    font-size: 5rem;
+    text-decoration:underline;
+}
+
+ul{
+    list-style: none;
+    background-color: black;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    
+}
+
+li{
+    float: left;
+    
+}
+
+li a, .dropbtn{
+    display: inline-block;
+    color: white;
+    padding: 2rem;
+    text-decoration: none;
+    margin-left: 2rem;
+    
+}
+
+li a:hover, .dropdown:hover .dropbtn{
+    background-color: orange;
+}
+
+li.dropdown{
+    display: inline-block;
+}
+
+.dropdown-content {
+    position: absolute;
+    background-color: rgb(14, 14, 77);
+    width: 10rem;
+    display: block;
+    text-align: left;
+    border: 1px solid gray;
+    display: none;
+} 
+
+.dropdown:hover .dropdown-content{
+display: block;
+}
+
