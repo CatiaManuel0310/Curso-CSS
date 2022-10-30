@@ -25,7 +25,7 @@ h1{
 .flex-pai1{
     background-color: rgb(255, 0, 221); 
     display: flex;
-    flex-direction: row-reverse;
+    flex-flow: row-reverse;
  }
 
  .flex-pai1 div{
@@ -45,6 +45,139 @@ h1{
 
 
 .flex-pai2 div{
+    background-color: white;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 30px;
+}
+
+
+.flex-pai3{
+    background-color: blueviolet;
+    height: 20rem;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-pai3 div{
+    background-color: white;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 30px;
+}
+
+.flex-pai4{
+    background-color: rgb(199, 39, 11);
+    height: 20rem;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.flex-pai4 div{
+    background-color: white;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 30px;
+}
+
+.flex-pai5{
+    background-color: rgb(226, 223, 43);
+    height: 20rem;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.flex-pai5 div{
+    background-color: white;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 30px;
+}
+
+.flex-pai6{
+    background-color: rgb(43, 226, 180);
+    height: 20rem;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flex-pai6 div{
+    background-color: white;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 30px;
+}
+
+.flex-pai7{
+    background-color: red;
+    height: 20rem;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.flex-pai7 div{
+    background-color: white;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 30px;
+}
+
+.flex-pai8{
+    background-color: rgb(226, 43, 150);
+    height: 20rem;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+   align-items: baseline;
+    
+}
+
+.flex-pai8 div{
+    background-color: white;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 30px;
+}
+
+.flex-pai9{
+    background-color: rgb(14, 107, 68);
+    height: 20rem;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+   align-items: center;
+    
+}
+
+.flex-pai9 div{
+    flex-grow: 1;
+    background-color: white;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 30px;
+}
+
+.flex-pai10{
+    background-color: rgb(139, 134, 137);
+    height: 20rem;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+   align-items: baseline;
+    
+}
+
+.flex-pai10 div{
     background-color: white;
     border: 1px solid black;
     margin: 20px;
