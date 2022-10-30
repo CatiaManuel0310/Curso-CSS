@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+    font-size: 3rem;
+    text-decoration: underline;
+}
+
+.flex-pai{
+   background-color: blue; 
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+}
+
+
+
+.flex-pai div{
+    background-color: white;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 30px;
+}
+
+
+
+.flex-pai1{
+    background-color: rgb(255, 0, 221); 
+    display: flex;
+    flex-direction: row-reverse;
+ }
+
+ .flex-pai1 div{
+    background-color: white;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 30px;
+}
+
+
+
+ .flex-pai2{
+    background-color: rgb(51, 255, 0); 
+    display: flex;
+    flex-direction: column-reverse;
+ }
+
+
+.flex-pai2 div{
+    background-color: white;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 30px;
+}
